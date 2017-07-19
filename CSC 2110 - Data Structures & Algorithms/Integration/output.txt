@@ -1,0 +1,57 @@
+building first list: 27.625
+building first list: 26.3125
+building first list: 25.9559
+building first list: 25.8642
+
+The area under the curve using accurate Romberg level 0: 27.625
+building first list: 27.625
+building first list: 26.3125
+building first list: 25.9559
+building first list: 25.8642
+q2 25.875
+q2 25.8371
+q2 25.8336
+
+
+The area under the curve using accurate Romberg level 1: 25.875
+building first list: 27.625
+building first list: 26.3125
+building first list: 25.9559
+building first list: 25.8642
+q2 25.875
+q2 25.8371
+q2 25.8336
+
+q2 25.8346
+q2 25.8334
+
+q2 25.8341
+q2 25.8334
+
+
+The area under the curve using accurate Romberg level 2: 25.8336
+building first list: 27.625
+building first list: 26.3125
+building first list: 25.9559
+building first list: 25.8642
+q2 25.875
+q2 25.8371
+q2 25.8336
+
+q2 25.8346
+q2 25.8334
+
+q2 25.8341
+q2 25.8334
+
+q2 25.8341
+q2 25.8333
+
+q2 25.8341
+q2 25.8333
+
+q2 25.8341
+q2 25.8333
+
+
+The area under the curve using accurate Romberg level 3: 25.8333

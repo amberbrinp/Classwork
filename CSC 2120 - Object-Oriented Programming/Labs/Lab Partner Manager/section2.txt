@@ -1,0 +1,16 @@
+1,Anata,Y,2,D,11,D,6
+2,Blind Stare,Y,2,D,7,D,7
+3,Dark Tranquillity,Y,2,A,10,D,8
+4,Detonation,Y,2,D,13,D,5
+5,Dimension Zero,Y,2,C,16,D,4
+6,Eternal Lies,Y,2,B,12,D,1
+7,Fragments of Unbecoming,Y,2,D,2,D,2
+8,Gates of Ishtar,Y,2,F,8,D,3
+9,Graveworm,Y,1,D,14,D,11
+10,In Thy Dreams,Y,1,A,3,D,13
+11,Insomnium,Y,1,D,1,D,9
+12,Immolation,Y,1,B,6,D,15
+13,Impious,Y,1,D,4,D,10
+14,Mors Principium Est,Y,1,D,9,D,16
+15,Swallow The Sun,Y,1,F,15,D,12
+16,Trauma,Y,1,C,5,D,14

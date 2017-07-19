@@ -1,0 +1,26 @@
+PROG = craps
+LIBSRCS = craps.cpp craps_game.cpp craps_helper.cpp craps_io.cpp
+LIBOBJS = $(patsubst %.cpp, %.o, $(LIBSRCS))
+LIBCRAPS = craps
+CXXFLAGS = -I./ -fpic
+LDFLAGS = -L./
+
+all:	$(PROG)
+
+$(PROG):	 $(PROG).o lib$(LIBCRAPS).so
+	g++ $(LDFLAGS) -l$(LIBCRAPS) -o $(PROG) $(PROG).o
+
+lib$(LIBCRAPS).so:	$(LIBOBJS)
+	g++ -shared -o lib$(LIBCRAPS).so $(LIBOBJS)
+
+.PHONY: clean
+
+clean:
+	 rm -f $(LIBOBJS) $(PROG)
+
+.PHONY: depend
+
+depend:
+	g++ -MM $(PROG).cpp $(LIBSRCS)>depends.mak
+
+include depends.mak

@@ -1,0 +1,7 @@
+Salad,SIDE,6,200,2.99,0.75,0,0.0,0.0,true,false,0
+Steak,MAIN,8,400,10.99,2.0,0,0.0,0.0,true,false,2,MARTHA:10/04/2015:5,MARK:09/15/2015:2
+Apple Pie,DESSERT,5,375,3.29,0.94,100,94.0,329.0,true,false,3,Tasha:10/06/2015:4,Sam:12/25/2014:5,Bob:01/01/2015:3
+Tacos,MAIN,10,600,8.59,1.89,200,378.0,1718.0,true,false,0
+Spaghetti,MAIN,12,500,8.99,1.5,0,0.0,0.0,true,false,0
+Lava Cake,DESSERT,5,425,3.29,1.26,0,0.0,0.0,true,false,0
+Baked Potato,SIDE,6,300,2.99,0.82,0,0.0,0.0,true,false,0

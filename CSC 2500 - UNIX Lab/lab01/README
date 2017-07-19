@@ -1,0 +1,24 @@
+1. What does the shell script print out?
+
+"You're running Linux version 3.16.0-4-amd64
+You have the following shells installed: bash sh"
+
+2. Read the man page for chmod. In your own words (not verbatim from the man page!), what does chmod do, in general (describe it in one sentence)? What did step 10 do specifically?
+
+chmod allows you to change the permissions associated with a file, like giving yourself or other users permission to execute the file.
+
+3. Read the man pages for the following and describe what they do (in one sentence):
+	1. echo
+	2. test
+
+Echo outputs a following string and test checks an expression for values and file types.
+
+4. Vim comes with a tutorial. How do you get to the tutorial? (Hint: Google is your friend.)
+
+Type 'vimtutor' (without the apostraphes) into the terminal to access the tutorial.
+
+5. You have been running vim in text mode inside a terminal. There are two ways to run vim in graphics mode (from a command line). What are they?
+
+You can run 'gvim' or 'vim -g' from the terminal to start up the graphics mode from the command line.
+
+

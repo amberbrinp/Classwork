@@ -1,0 +1,15 @@
+1,Amon Amarth,Y,2,A,1,D,5
+2,Arch Enemy,Y,2,A,15,B,4
+3,Before The Dawn,Y,2,D,5,D,3
+4,Behemoth,Y,2,D,14,B,2
+5,Crionics,Y,2,D,3,D,1
+6,Gorod,Y,1,C,10,B,9
+7,Illdisposed,Y,1,A,8,D,11
+8,Kalmah,Y,1,A,7,D,12
+9,Kataklysm,Y,1,A,12,B,6
+10,Neuraxis,N,1,C,6
+11,Nile,Y,1,D,13,D,7
+12,Obscura,Y,1,A,9,D,8
+13,Omnium Gatherum,Y,1,D,11,C,15
+14,Quo Vadis,Y,1,D,4,F,14
+15,Testament,Y,1,A,2,C,13
